@@ -1,0 +1,10 @@
+body {
+    background-image: url("http://www.joytravels.in/asset/images/slider.jpg"   );
+    background-repeat: no-repeat;
+    background-position:right top;
+    background-attachment:fixed
+}
+img {
+    opacity: 0.5;
+    filter: alpha(opacity=50); 
+}
